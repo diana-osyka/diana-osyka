@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Time Picker</title>
+<style>
+  .time-picker {
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+  }
+
+  .picker {
+    display: flex;
+    align-items: center;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+    height: 150px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    flex: 1;
+    overflow-y: auto; /* Add this line to enable scrolling */
+  }
+
+  li {
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    cursor: pointer;
+  }
+  ul li:active {
+    color: rgb(160, 160, 160);
+  }.time-picker {
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+  }
+
+  .picker {
+    display: flex;
+    align-items: center;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: 150px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    flex: 1;
+  }
+
+  li {
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  /* Hide radio buttons */
+  input[type="radio"] {
+    display: none;
+  }
+
+  /* Style for active label */
+  input[type="radio"]:checked + label {
+    color: black;
+    background-color: #ddd;
+  }
+
+  /* Style for inactive label */
+  label {
+    display: block;
+    padding: 5px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+  }
+</style>
+</head>
+<body>
+<div class="time-picker">
+  <div class="picker">
+    <ul class="hours">
+      <li>
+        <input type="radio" id="hour1" name="hour" />
+        <label for="hour1">1</label>
+        <label for="hour1">1</label>
+        <label for="hour1">1</label>
+        <label for="hour1">1</label>
+        <label for="hour1">1</label>
+        <label for="hour1">1</label>
+      </li>
+      <!-- Add more hours -->
+    </ul>
+    <ul class="minutes">
+      <li>
+        <input type="radio" id="minute0" name="minute" />
+        <label for="minute0">00</label>
+        <label for="minute0">00</label>
+        <label for="minute0">00</label>
+        <label for="minute0">00</label>
+        <label for="minute0">00</label>
+        <label for="minute0">00</label>
+      </li>
+      <!-- Add more minutes -->
+    </ul>
+  </div>
+</div>
+</body>
+</html>
