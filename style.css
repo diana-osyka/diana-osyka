@@ -92,6 +92,7 @@ a {
 .projectWrapper {
     display: block;
     margin-bottom: 10px;
+    overflow: hidden;
 }
 
 
