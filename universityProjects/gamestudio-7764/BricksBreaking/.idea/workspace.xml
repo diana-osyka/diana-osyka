@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f29382f1-9d0a-4add-8fad-694d29bbb8de" name="Changes" comment="All">
+      <change afterPath="$PROJECT_DIR$/../gamestudio-frontend/src/image/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gamestudio-frontend/src/components/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../gamestudio-frontend/src/components/Login.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="second_submission" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ds2rYOHaB1GSbDRtebudXYW0a1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;second__submission&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diana/vscode/kp/gamestudio-7764/gamestudio-frontend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect&quot;: [
+      &quot;PostgreSQL&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diana\vscode\kp\gamestudio-7764\BricksBreaking\src\main\resources\templates" />
+      <recent name="C:\Users\diana\vscode\kp\gamestudio-7764\BricksBreaking\src\main\resources\static" />
+      <recent name="C:\Users\diana\vscode\kp\gamestudio-7764\BricksBreaking\src\main\resources" />
+      <recent name="C:\Users\diana\vscode\kp\gamestudio-7764\BricksBreaking\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="sk.tuke.gamestudio.game.bricksbreaking.core" />
+      <recent name="sk.tuke.gamestudio.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sk.tuke.gamestudio.server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Compound.Main">
+    <configuration name="GameService" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sk.tuke.gamestudio.server.GameStudioServer" />
+      <module name="gamestudio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringClient" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sk.tuke.gamestudio.SpringClient" />
+      <module name="gamestudio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="CompoundRunConfigurationType">
+      <toRun name="GameService" type="Application" />
+      <toRun name="SpringClient" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RatingServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BricksBreaking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.tuke.gamestudio.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sk.tuke.gamestudio.service" />
+      <option name="MAIN_CLASS_NAME" value="sk.tuke.gamestudio.service.RatingServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RatingServiceTest.setRatingAndGetAverageRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gamestudio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.tuke.gamestudio.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sk.tuke.gamestudio.service" />
+      <option name="MAIN_CLASS_NAME" value="sk.tuke.gamestudio.service.RatingServiceTest" />
+      <option name="METHOD_NAME" value="setRatingAndGetAverageRating" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScoreServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BricksBreaking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.tuke.gamestudio.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sk.tuke.gamestudio.service" />
+      <option name="MAIN_CLASS_NAME" value="sk.tuke.gamestudio.service.ScoreServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameStudioServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gamestudio" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sk.tuke.gamestudio.server.GameStudioServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.tuke.gamestudio.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringClient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gamestudio" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sk.tuke.gamestudio.SpringClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.tuke.gamestudio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GameService" />
+      <item itemvalue="Application.SpringClient" />
+      <item itemvalue="Compound.Main" />
+      <item itemvalue="JUnit.RatingServiceTest" />
+      <item itemvalue="JUnit.RatingServiceTest.setRatingAndGetAverageRating" />
+      <item itemvalue="JUnit.ScoreServiceTest" />
+      <item itemvalue="Spring Boot.GameStudioServer" />
+      <item itemvalue="Spring Boot.SpringClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GameStudioServer" />
+        <item itemvalue="Spring Boot.SpringClient" />
+        <item itemvalue="JUnit.RatingServiceTest.setRatingAndGetAverageRating" />
+        <item itemvalue="JUnit.RatingServiceTest" />
+        <item itemvalue="JUnit.ScoreServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f29382f1-9d0a-4add-8fad-694d29bbb8de" name="Changes" comment="" />
+      <created>1710782667163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710782667163</updated>
+      <workItem from="1710782668172" duration="3561000" />
+      <workItem from="1710786251139" duration="9255000" />
+      <workItem from="1710843121531" duration="1343000" />
+      <workItem from="1710936629913" duration="5639000" />
+      <workItem from="1712051720825" duration="5374000" />
+      <workItem from="1712083937734" duration="7699000" />
+      <workItem from="1712144815368" duration="44887000" />
+      <workItem from="1712670097920" duration="13442000" />
+      <workItem from="1712700271397" duration="1834000" />
+      <workItem from="1712746673286" duration="4926000" />
+      <workItem from="1713172186757" duration="15959000" />
+      <workItem from="1713276798489" duration="1953000" />
+      <workItem from="1713353987330" duration="4817000" />
+      <workItem from="1715019828976" duration="26620000" />
+      <workItem from="1715238054370" duration="5165000" />
+      <workItem from="1715249319847" duration="41000" />
+      <workItem from="1715249375164" duration="26399000" />
+      <workItem from="1715318796376" duration="10943000" />
+      <workItem from="1715335192071" duration="4576000" />
+    </task>
+    <task id="LOCAL-00001" summary="Refactored again, +service components">
+      <option name="closed" value="true" />
+      <created>1710783585622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710783585622</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Refactored again, +service components">
+      <option name="closed" value="true" />
+      <created>1710783693305</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710783693305</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Refactored again">
+      <option name="closed" value="true" />
+      <created>1710785038371</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710785038371</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Refactored again">
+      <option name="closed" value="true" />
+      <created>1710785777625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710785777625</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Refactored again">
+      <option name="closed" value="true" />
+      <created>1710786287270</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710786287271</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added tests core+JDBC">
+      <option name="closed" value="true" />
+      <created>1710798048489</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710798048489</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added tests core+JDBC">
+      <option name="closed" value="true" />
+      <created>1710843143147</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710843143147</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added possibility to write comments and rate inside the game">
+      <option name="closed" value="true" />
+      <created>1710941718336</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710941718336</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Comment JPA">
+      <option name="closed" value="true" />
+      <created>1712573009837</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712573009837</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added Comment JPA">
+      <option name="closed" value="true" />
+      <created>1712573043900</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712573043900</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added Comment JPA">
+      <option name="closed" value="true" />
+      <created>1712573265271</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712573265271</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added REST services">
+      <option name="closed" value="true" />
+      <created>1712611916948</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712611916948</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added REST services">
+      <option name="closed" value="true" />
+      <created>1712612030605</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712612030605</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added REST services">
+      <option name="closed" value="true" />
+      <created>1712612112704</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712612112704</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added REST services">
+      <option name="closed" value="true" />
+      <created>1712612124830</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712612124830</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added REST client">
+      <option name="closed" value="true" />
+      <created>1712645345262</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1712645345262</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added REST client">
+      <option name="closed" value="true" />
+      <created>1712645542718</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1712645542718</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added REST client">
+      <option name="closed" value="true" />
+      <created>1712665828653</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1712665828653</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added REST Rating and Comment">
+      <option name="closed" value="true" />
+      <created>1712678632594</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1712678632594</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added print in ConsoleUI">
+      <option name="closed" value="true" />
+      <created>1712701497385</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1712701497385</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Deleted while for testing">
+      <option name="closed" value="true" />
+      <created>1712749990335</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1712749990335</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Deleted while for testing">
+      <option name="closed" value="true" />
+      <created>1712753137769</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1712753137769</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Nothing is working">
+      <option name="closed" value="true" />
+      <created>1715103471556</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1715103471556</updated>
+    </task>
+    <task id="LOCAL-00024" summary="WORKING GET + SEND FROM WEB">
+      <option name="closed" value="true" />
+      <created>1715200668681</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1715200668681</updated>
+    </task>
+    <task id="LOCAL-00025" summary="WORKINGGGGGGGGGGGGGG">
+      <option name="closed" value="true" />
+      <created>1715203696028</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1715203696028</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added endless mode">
+      <option name="closed" value="true" />
+      <created>1715271663150</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1715271663150</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Rating">
+      <option name="closed" value="true" />
+      <created>1715331806396</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1715331806396</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Rating">
+      <option name="closed" value="true" />
+      <created>1715332180926</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1715332180926</updated>
+    </task>
+    <task id="LOCAL-00029" summary="All">
+      <option name="closed" value="true" />
+      <created>1715341455171</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1715341455171</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="second_submission" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Refactored again, +service components" />
+    <MESSAGE value="Refactored again" />
+    <MESSAGE value="Added tests core+JDBC" />
+    <MESSAGE value="Added possibility to write comments and rate inside the game" />
+    <MESSAGE value="Added Comment JPA" />
+    <MESSAGE value="Added REST services" />
+    <MESSAGE value="Added REST client" />
+    <MESSAGE value="Added REST Rating and Comment" />
+    <MESSAGE value="Added print in ConsoleUI" />
+    <MESSAGE value="Deleted while for testing" />
+    <MESSAGE value="AAAAAAAAAAAAAAAAAAAAAA" />
+    <MESSAGE value="Nothing is working" />
+    <MESSAGE value="WORKING GET + SEND FROM WEB" />
+    <MESSAGE value="WORKINGGGGGGGGGGGGGG" />
+    <MESSAGE value="Added endless mode" />
+    <MESSAGE value="Rating" />
+    <MESSAGE value="All" />
+    <option name="LAST_COMMIT_MESSAGE" value="All" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BricksBreaking$SpringClient.ic" NAME="SpringClient Coverage Results" MODIFIED="1712645489747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sk.tuke.gamestudio.*</FILTER>
+    </SUITE>
+  </component>
+</project>
