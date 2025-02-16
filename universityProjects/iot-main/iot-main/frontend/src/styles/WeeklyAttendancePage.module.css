@@ -1,0 +1,86 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    min-height: 100vh;
+    background-color: #f7f7f7;
+  }
+  
+  .header {
+    margin-bottom: 16px;
+  }
+  
+  .headerRow {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    gap: 15px;
+  }
+  
+  .backButton {
+    font-size: 20px;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .courseInfo {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .absenceSummary {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-top: 8px;
+  }
+  
+  .absenceBadge {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 70px;
+    width: 90px;
+    height: 90px;
+    font-size: 45px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #2ecc71;
+    border-radius: 50%;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .absenceBadge > span:last-of-type {
+    position: relative;
+    top: -10px;
+    font-size: 15px;
+    font-weight: normal;
+  }
+  
+  .divider {
+    margin: 16px 0;
+    height: 1px;
+    background:
+      repeating-linear-gradient(
+        90deg,
+        #000 0 16px,
+        #0000 0 32px
+      );
+  }
+  
+  .attendanceInfo {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin-bottom: 16px;
+    color: #555;
+  }
+  

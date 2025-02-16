@@ -1,0 +1,120 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    min-height: 100vh;
+    background-color: #f7f7f7;
+  }
+  
+  .header {
+    margin-bottom: 16px;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .label {
+    margin-top: 15px;;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .input {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .fileInput {
+    font-size: 14px;
+  }
+  
+  .fileNote {
+    font-size: 12px;
+    color: #777;
+  }
+  
+  .dropdownContainer {
+    display: flex;
+    gap: 8px;
+  }
+  
+  .dropdown {
+    flex: 1;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+  }
+  
+  .buttonContainer {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  
+  .cancelButton {
+    padding: 10px;
+    font-size: 14px;
+    color: #333;
+    background-color: transparent;
+    border: 1px solid #333;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .cancelButton:hover {
+    background-color: #f7f7f7;
+  }
+  
+  .submitButton {
+    padding: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .submitButton:hover {
+    background-color: #555;
+  }
+  .fileInfo {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #333;
+}
+
+.deleteFileButton {
+  margin-top: 4px;
+  padding: 4px 8px;
+  font-size: 12px;
+  color: #fff;
+  background-color: #e63946;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.deleteFileButton:hover {
+  background-color: #c02633;
+}
+
+.fileWrapper{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

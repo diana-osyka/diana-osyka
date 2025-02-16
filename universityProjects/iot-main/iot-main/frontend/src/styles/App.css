@@ -1,0 +1,43 @@
+/* Global reset styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+  padding-top: 50px;
+  max-width: 600px;
+  margin: auto;
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+/* Default link styles */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Button reset */
+button {
+  font-family: inherit;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+.infoMessage {
+  font-size: 16px;
+  text-align: center;
+  color: #555;
+  margin-top: 16px;
+}
